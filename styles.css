@@ -2,3 +2,6 @@ table{
 	background-color: yellow;/*  your css code here. If applicable */
     border: 1px solid black;
 }
+h1{
+	text-align:center;
+}
